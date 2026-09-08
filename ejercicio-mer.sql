@@ -3,4 +3,5 @@
 -- Autor: Sebastian Joheth Barajas Barba
 
 -- Crear base de datos
-CREATE DATABASE ejercicio_mer;
+CREATE DATABASE IF NOT EXISTS ejercicio_mer;
+
